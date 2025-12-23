@@ -38,4 +38,5 @@ This project is open source and free to use.
 
 ## 🙏 Credits
 
-Created by Blanche, December 2025.
+Created by Glenn Mark, December 2025.
+
