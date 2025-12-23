@@ -1,22 +1,41 @@
-# Phone Calculator Mockup
 
-A web-based calculator application designed to mimic the interface of a mobile phone calculator.
+# 📱 Phone Calculator Mockup
 
-## Features
+A web-based calculator designed to look and feel like a mobile phone calculator.
 
--   **Mobile-First Design**: Styled to resemble a smartphone screen with a notch and status bar.
--   **Basic Arithmetic**: Supports addition, subtraction, multiplication, and division.
--   **History/Display**: Shows the current expression and the result.
--   **Responsive Layout**: Adapts to different screen sizes.
+## 🚀 Features
 
-## Technologies Used
+- **Mobile-First Design**: Mimics a smartphone calculator, complete with notch and status bar.
+- **Basic Arithmetic**: Addition, subtraction, multiplication, and division.
+- **Live Display**: Shows current expression and result.
+- **Responsive Layout**: Works on desktop and mobile screens.
 
--   HTML5
--   CSS3
--   JavaScript
+## 🛠️ Technologies
 
-## How to Use
+- HTML5
+- CSS3
+- JavaScript
 
-1.  Open `index.html` in your web browser.
-2.  Use the on-screen keypad to enter numbers and operations.
-3.  View the result in the display area.
+## 📂 File Structure
+
+- `index.html` — Main HTML file
+- `style.css` — Styles for the calculator and phone mockup
+- `script.js` — Calculator logic and interactivity
+
+## 🖥️ Installation & Usage
+
+1. Download or clone this repository.
+2. Open `index.html` in your web browser.
+3. Use the on-screen keypad to perform calculations.
+
+## ✨ Screenshots
+
+> ![Calculator Screenshot](screenshot.png) <!-- Add screenshot.png if available -->
+
+## 📄 License
+
+This project is open source and free to use.
+
+## 🙏 Credits
+
+Created by Blanche, December 2025.
