@@ -1,36 +1,40 @@
 
-# 📱 Phone Calculator Mockup
 
-A web-based calculator designed to look and feel like a mobile phone calculator.
+# 🧮 Phone Calculator
+
+A web-based calculator designed to mimic the look and feel of a mobile phone calculator.
 
 ## 🚀 Features
 
-- **Mobile-First Design**: Mimics a smartphone calculator, complete with notch and status bar.
+- **Mobile-First Design**: Emulates a smartphone calculator interface.
 - **Basic Arithmetic**: Addition, subtraction, multiplication, and division.
 - **Live Display**: Shows current expression and result.
-- **Responsive Layout**: Works on desktop and mobile screens.
+- **Responsive Layout**: Works on both desktop and mobile screens.
 
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 📂 File Structure
+## 📦 Installation
 
-- `index.html` — Main HTML file
-- `style.css` — Styles for the calculator and phone mockup
-- `script.js` — Calculator logic and interactivity
+1. **Clone the repository**
+	```sh
+	git clone https://github.com/your-username/your-repo-name.git
+	```
+2. **Navigate to the project folder**
+	```sh
+	cd Elect_FInal_Projects/Calculator
+	```
+3. **Open `index.html` in your web browser**
+	- Double-click `index.html` or right-click and select “Open with” > your browser.
 
-## 🖥️ Installation & Usage
+## 🖥️ How to Use
 
-1. Download or clone this repository.
-2. Open `index.html` in your web browser.
-3. Use the on-screen keypad to perform calculations.
-
-## ✨ Screenshots
-
-> ![Calculator Screenshot](screenshot.png) <!-- Add screenshot.png if available -->
+1. Open `index.html` in your web browser.
+2. Use the on-screen keypad to perform calculations.
+3. View results in real time.
 
 ## 📄 License
 
@@ -39,4 +43,3 @@ This project is open source and free to use.
 ## 🙏 Credits
 
 Created by Glenn Mark, December 2025.
-
